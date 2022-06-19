@@ -46,7 +46,7 @@ const InitialPage = () => {
       <Tag size='10' colorScheme='cyan'>
       <HStack spacing={4}>
       <TagLabel>Show Completed Tasks</TagLabel>
-      <Switch id='email-alerts' defaultChecked onChange={(e)=> {toggleIsComplete(e)}} />
+      <Switch id='completedTasks' defaultChecked onChange={(e)=> {toggleIsComplete(e)}} />
       </HStack>
       </Tag>
       
