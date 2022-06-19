@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Job Search Portal</h3>
+  <h3 align="center">Todo App</h3>
   <p align="center">
     <a href="https://github.com/ganeshmkharvi/react-recoil-chakra-ui-todo//issues">Report Bug </a>
     ·
